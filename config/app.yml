@@ -1,0 +1,13 @@
+---
+all:
+  adsense:
+    adv_1:
+      client: ca-pub-xxx
+      slot: xxx
+      width: 120
+      height: 600
+    adv_2:
+      client: ca-pub-xxx
+      slot: xxx
+      width: 120
+      height: 240
